@@ -1,0 +1,1 @@
+document.getElementById("i").innerHTML="Ali Raza";

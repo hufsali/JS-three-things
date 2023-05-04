@@ -1,0 +1,1 @@
+document.getElementById("k").innerHTML="Abdullah Hanif"
